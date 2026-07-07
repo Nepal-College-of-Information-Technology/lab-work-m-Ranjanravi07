@@ -241,7 +241,7 @@ The processing sequence is:
 ## Image
 
 <p align="center">
-<img src="images/esp32.jpg" width="450">
+<img src="images/esp32.png" width="450">
 </p>
 
 ---
@@ -249,7 +249,7 @@ The processing sequence is:
 ## Pin Configuration
 
 <p align="center">
-<img src="images/esp32_pinout.png" width="700">
+<img src="images/esp32_pinout.jpg" width="700">
 </p>
 
 ---
@@ -315,7 +315,7 @@ Its deep-sleep feature allows battery-powered devices to operate for extended pe
 ## Pin Configuration
 
 <p align="center">
-<img src="images/esp8266_pinout.png" width="700">
+<img src="images/esp8266_pinout.jpg" width="700">
 </p>
 
 ---
@@ -480,7 +480,7 @@ Electrical Signal
 ## Pin Configuration
 
 <p align="center">
-<img src="images/dht11_pinout.png" width="450">
+<img src="images/dht11_pinout.jpg" width="450">
 </p>
 
 | Pin | Description |
@@ -622,7 +622,7 @@ The changing resistance forms a voltage divider circuit, producing different out
 ## Pin Configuration
 
 <p align="center">
-<img src="images/soil_moisture_pinout.png" width="450">
+<img src="images/soil_moisture_pinout.jpg" width="450">
 </p>
 
 | Pin | Description |
@@ -771,7 +771,7 @@ The division by two accounts for the round-trip travel of the sound wave.
 ## Pin Configuration
 
 <p align="center">
-<img src="images/mq2_pinout.png" width="450">
+<img src="images/mq2_pinout.jpg" width="450">
 </p>
 
 | Pin | Description |
@@ -894,7 +894,7 @@ Physical Action
 ## Image
 
 <p align="center">
-<img src="images/led.jpg" width="250">
+<img src="images/led.png" width="250">
 </p>
 
 ---
@@ -902,7 +902,7 @@ Physical Action
 ## Pin Configuration
 
 <p align="center">
-<img src="images/led_pinout.png" width="300">
+<img src="images/led_pinout.jpg" width="300">
 </p>
 
 | Pin | Description |
@@ -957,7 +957,7 @@ The color of the emitted light depends on the semiconductor material used.
 ## Pin Configuration
 
 <p align="center">
-<img src="images/buzzer_pinout.png" width="350">
+<img src="images/buzzer_pinout.jpg" width="350">
 </p>
 
 | Pin | Description |
@@ -1012,7 +1012,7 @@ For a piezoelectric buzzer, an alternating voltage causes a piezoelectric crysta
 ## Pin Configuration
 
 <p align="center">
-<img src="images/servo_pinout.png" width="350">
+<img src="images/servo_pinout.jpg" width="350">
 </p>
 
 | Wire | Description |
@@ -1119,7 +1119,7 @@ Reversing the polarity of the applied voltage changes the direction of rotation.
 ## Pin Configuration
 
 <p align="center">
-<img src="images/relay_pinout.png" width="450">
+<img src="images/relay_pinout.jpg" width="450">
 </p>
 
 ### Control Side
@@ -1206,15 +1206,4 @@ Overall, this experiment established a strong foundation in embedded systems, se
 
 ---
 
-# References
 
-1. Raspberry Pi Foundation. *Raspberry Pi Documentation*. https://www.raspberrypi.com/documentation/
-2. Espressif Systems. *ESP32 Technical Reference Manual*. https://docs.espressif.com/
-3. Espressif Systems. *ESP8266 Documentation*. https://docs.espressif.com/
-4. Arduino. *Arduino Uno Rev3 Documentation*. https://docs.arduino.cc/
-5. Aosong Electronics. *DHT11/DHT22 Datasheets*.
-6. HC-SR04 Ultrasonic Sensor Datasheet.
-7. MQ-2 Gas Sensor Datasheet.
-8. Arduino Sensor Kit Documentation.
-
----
