@@ -1004,7 +1004,7 @@ For a piezoelectric buzzer, an alternating voltage causes a piezoelectric crysta
 ## Image
 
 <p align="center">
-<img src="images/servo.jpg" width="300">
+<img src="images/Servo.jpg" width="300">
 </p>
 
 ---
