@@ -562,7 +562,7 @@ The operational sequence is:
 ## Pin Configuration
 
 <p align="center">
-<img src="images/ldr_pinout.png" width="450">
+<img src="images/ldr_pinout.jpg" width="450">
 </p>
 
 | Pin | Description |
@@ -688,7 +688,7 @@ Digital output can also trigger irrigation systems when the moisture level falls
 ## Pin Configuration
 
 <p align="center">
-<img src="images/hcsr04_pinout.png" width="450">
+<img src="images/hcsr04_pinout.jpg" width="450">
 </p>
 
 | Pin | Description |
