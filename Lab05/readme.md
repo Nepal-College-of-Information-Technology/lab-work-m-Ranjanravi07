@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Lab: Integrating ESP32 Ultrasonic Sensor Data with Cloud-Based REST API and Dashboard Visualization
 
 ## Title
@@ -466,4 +466,3 @@ Features include:
 # Conclusion
 
 In this laboratory, the ESP32 was successfully interfaced with the HC-SR04 ultrasonic sensor to measure the distance of nearby objects. The measured values were verified through the Serial Monitor and transmitted to a cloud-based REST API hosted on an AWS EC2 instance. The uploaded sensor data was stored in the cloud database and visualized using the dashboard developed in the previous lab. This experiment demonstrated the complete end-to-end IoT workflow, including sensor data acquisition, cloud communication, cloud storage, and remote monitoring through a web-based dashboard.
->>>>>>> f9f96c454f82ec92b253dcc00529e4c53390da85
