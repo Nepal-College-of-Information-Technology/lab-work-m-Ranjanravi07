@@ -12,3 +12,7 @@
 | 4       | Familiarization with Sensors, Actuators, and Embedded Systems                           | 01st july 2026 | Familiarization with IOT Devices |
 | 5       | Integrating ESP32 Ultrasonic Sensor Data with Cloud-Based REST API and Dashboard Visualization   | 08th july 2026 | Familiarization with ESP32, cloud based REST API|
 
+
+
+## AWS BAdge
+https://www.credly.com/users/ravi-ranjan-sah
